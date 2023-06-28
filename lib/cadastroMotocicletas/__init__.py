@@ -94,6 +94,7 @@ def listarMotocicletas():
     sleep(1)
 
 def deletarMotocicleta():
+    listarMotocicletas()
     motocicletas = open('crudMotocicletas.txt', 'r')
     aux = []
     for i in motocicletas:
@@ -131,3 +132,4 @@ def ultimaMotocicletaCadastrada():
             return ultimaMotocicleta
     except:
         return 'nenhum'
+    

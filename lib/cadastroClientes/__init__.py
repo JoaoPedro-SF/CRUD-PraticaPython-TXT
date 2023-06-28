@@ -95,6 +95,7 @@ def listarCliente():
     sleep(1)
 
 def deletarCliente():
+    listarCliente()
     clientes = open('crudClientes.txt', 'r')
     aux = []
     for i in clientes:

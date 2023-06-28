@@ -25,6 +25,6 @@ Escolha uma opção acima: ''')
             break
         else:
             print('ERRO! Digite uma opcão válida!')
-
+            sleep(1)
 if __name__ == '__main__':
     menu()

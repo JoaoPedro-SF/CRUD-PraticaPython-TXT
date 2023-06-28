@@ -1,5 +1,4 @@
 idCliente: 20; Nome: Lucas; Telefone: 98745654644; CPF: 98745654644;
-idCliente: 30; Nome: Roberto; Telefone: 98745654644; 125478963214;
 idCliente: 40; Nome: Aline; Telefone: 1234560789; CPF: 1234560789;
 idCliente: 50; Nome: Giovana; Telefone: 1234560789; CPF: 1234560789;
 idCliente: 70; Nome: Luis; Telefone: 21965455689; CPF: 02563647106; 
