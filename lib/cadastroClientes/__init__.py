@@ -40,6 +40,7 @@ def contarClientes():
         return  len(clientes.readlines())
 
 def atualizarCliente():
+    listarCliente()
     cliente = open('crudClientes.txt', 'r')
     aux = []
     for i in cliente:

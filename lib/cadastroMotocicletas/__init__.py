@@ -39,6 +39,7 @@ def contarMotocicletas():
         return  len(motocicletas.readlines())
 
 def atualizarMotocicleta():
+    listarMotocicletas()
     motocicleta = open('crudMotocicletas.txt', 'r')
     aux = []
     for i in motocicleta:

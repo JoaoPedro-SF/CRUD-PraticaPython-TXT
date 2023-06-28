@@ -7,7 +7,7 @@ def menu():
     while voltarMenuPrincipal == 'S':
         opcao = input(f'''
 ============================================================
-{'Projeto CRUD Concessionária V1.1'.center(60)}
+{'Projeto CRUD Concessionária V1.2'.center(60)}
 ============================================================
  {'MENU PRINCIPAL'.center(60)}
 [1] - Menu Clientes           +
