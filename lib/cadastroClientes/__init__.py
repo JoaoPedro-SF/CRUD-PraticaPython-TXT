@@ -123,7 +123,7 @@ def buscarClienteNome():
     if cont == 0:
         print('Cliente não encontrado!')
     clientes.close()
-
+    sleep(1)
 def ultimoClienteCadastrado():
     try:
         with (open('crudClientes.txt', 'r')) as cliente:
