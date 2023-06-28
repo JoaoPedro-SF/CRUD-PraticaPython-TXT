@@ -1,2 +1,3 @@
 # CRUD-PraticaPython-TXT
- CRUD feito com arquivido txt, V1.0! Só cliente funcionando!
+
+CRUD feito com arquivido txt, V1.1! Cliente e Motocicletas Funcionando!
