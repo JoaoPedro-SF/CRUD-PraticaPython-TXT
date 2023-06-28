@@ -1,6 +1,6 @@
-idMotocicleta: 10; Modelo: Yamaha Crosser S; Cor: Preta; PreÃ§o: 18990;
-idMotocicleta: 20; Modelo: Yamaha Crosser S; Cor: Vermelha; PreÃ§o: 18990;
-idMotocicleta: 30; Modelo: Yamaha Neo 125; Cor: Azul; PreÃ§o: 11990;
-idMotocicleta: 40; Modelo: Honda Biz 110i; Cor: Cinza; PreÃ§o: 11000;
-idMotocicleta: 50; Modelo: Honda CB 500F; Cor: Preta; PreÃ§o: 39100;
-idMotocicleta: 60; Modelo: Honda Biz 110i; Cor: Branca; PreÃ§o: 11000;
+idMotocicleta: 10; Modelo: Yamaha Crosser S; Cor: Preta; Preço: 18990;
+idMotocicleta: 20; Modelo: Yamaha Crosser S; Cor: Vermelha; Preço: 18990;
+idMotocicleta: 30; Modelo: Yamaha Neo 125; Cor: Azul; Preço: 11990;
+idMotocicleta: 40; Modelo: Honda Biz 110i; Cor: Cinza; Preço: 11000;
+idMotocicleta: 50; Modelo: Honda CB 500F; Cor: Preta; Preço: 39100;
+idMotocicleta: 60; Modelo: Honda Biz 110i; Cor: Branca; Preço: 11000;
